@@ -91,16 +91,15 @@ if _name_ == '_main_':
 
 [![Click here.......](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/RsccEd7a6FE)
 
-<br/>
-<br/>
+
+
 
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
 
-<br/>
-<br/>
+
 
 ```
 Mobile Robotics Laboratory
