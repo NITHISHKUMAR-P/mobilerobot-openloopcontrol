@@ -31,6 +31,10 @@ Execute the python program.
 
 ## Program
 ```
+#Python control code to move the mobilerobot along the predefined path.
+#Developed by: Nithishkumar P
+#Register No.: 212221230070
+
 from robomaster import robot
 import time
 
@@ -85,7 +89,7 @@ if _name_ == '_main_':
 ![](./final.png)
 ## MobileRobot Movement Video:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/RsccEd7a6FE)
+[![Click here.......](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/RsccEd7a6FE)
 
 <br/>
 <br/>
